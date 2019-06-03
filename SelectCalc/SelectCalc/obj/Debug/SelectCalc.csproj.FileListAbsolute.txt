@@ -1,0 +1,7 @@
+c:\users\рахимовс\source\repos\SelectCalc\SelectCalc\bin\Debug\SelectCalc.exe.config
+c:\users\рахимовс\source\repos\SelectCalc\SelectCalc\bin\Debug\SelectCalc.exe
+c:\users\рахимовс\source\repos\SelectCalc\SelectCalc\bin\Debug\SelectCalc.pdb
+c:\users\рахимовс\source\repos\SelectCalc\SelectCalc\obj\Debug\SelectCalc.csprojAssemblyReference.cache
+c:\users\рахимовс\source\repos\SelectCalc\SelectCalc\obj\Debug\SelectCalc.csproj.CoreCompileInputs.cache
+c:\users\рахимовс\source\repos\SelectCalc\SelectCalc\obj\Debug\SelectCalc.exe
+c:\users\рахимовс\source\repos\SelectCalc\SelectCalc\obj\Debug\SelectCalc.pdb

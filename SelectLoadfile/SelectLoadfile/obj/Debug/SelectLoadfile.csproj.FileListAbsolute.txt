@@ -1,0 +1,6 @@
+C:\Users\РахимовС\source\repos\SelectLoadfile\SelectLoadfile\bin\Debug\SelectLoadfile.exe.config
+C:\Users\РахимовС\source\repos\SelectLoadfile\SelectLoadfile\bin\Debug\SelectLoadfile.exe
+C:\Users\РахимовС\source\repos\SelectLoadfile\SelectLoadfile\bin\Debug\SelectLoadfile.pdb
+C:\Users\РахимовС\source\repos\SelectLoadfile\SelectLoadfile\obj\Debug\SelectLoadfile.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\SelectLoadfile\SelectLoadfile\obj\Debug\SelectLoadfile.exe
+C:\Users\РахимовС\source\repos\SelectLoadfile\SelectLoadfile\obj\Debug\SelectLoadfile.pdb
